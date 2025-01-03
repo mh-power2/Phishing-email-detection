@@ -1,0 +1,9 @@
+
+
+you have here the project in a notebook and there is a file of a project but separated to be more clean you will find the results you need in the notebook but if you want to generate the excel file you should open the file of project and run main.py from the cmd 
+ 
+second thing you will find a notebook with the name of pso for feature engineering but if you open the dataset you will find only one feature so we don't need but we must prove that we can do it of course 
+
+we are excited to discuss with you the challenges in the project soon
+
+sincerely HC group  
